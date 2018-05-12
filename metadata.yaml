@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/747
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Fielding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27744#Remarks-on-Clarissa--1749-
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
