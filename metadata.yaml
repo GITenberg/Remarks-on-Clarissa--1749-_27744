@@ -1,0 +1,29 @@
+_repo: Remarks-on-Clarissa--1749-_27744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fielding, Sarah
+    birthdate: 1710
+    deathdate: 1768
+    gutenberg_agent_id: '747'
+    url: http://www.gutenberg.org/2009/agents/747
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Fielding
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richardson, Samuel, 1689-1761. Clarissa'
+- !lcsh 'Epistolary fiction, English -- History and criticism'
+- !lcsh 'Rape victims in literature'
+- !lcc 'PR'
+title: Remarks on Clarissa (1749)
+url: http://www.gutenberg.org/ebooks/27744
